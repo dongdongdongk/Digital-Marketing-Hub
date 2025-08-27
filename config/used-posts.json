@@ -351,11 +351,19 @@
       "upvotes": 10,
       "usedAt": "2025-08-27T13:39:58.284Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n1fcrr/seo_news_august_2025_spam_update_begins_rolling/"
+    },
+    {
+      "id": "1n1dify",
+      "title": "How are you guys tracking how you show up in AI answers?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 6,
+      "usedAt": "2025-08-27T17:31:45.650Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n1dify/how_are_you_guys_tracking_how_you_show_up_in_ai/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 47,
+    "totalUsed": 48,
     "cleanupCount": 10
   }
 }
