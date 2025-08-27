@@ -294,7 +294,14 @@ const siteConfig = {
   seo: {
     defaultKeywords: ["Digital Marketing", "SEO", "Social Media", "Online Ads", "Beginners Guide", "Marketing Tips"],
     ogImage: "/og-digital-marketing.jpg",
-    twitterCard: "summary_large_image"
+    twitterCard: "summary_large_image",
+    googleAnalytics: "", // GA4 measurement ID
+    googleSearchConsole: "", // Ownership verification meta tag
+    robotsTxt: {
+      allow: ["/"],
+      disallow: ["/admin", "/api"],
+      sitemap: "/sitemap.xml"
+    }
   },
 
   // === 이미지 설정 ===
