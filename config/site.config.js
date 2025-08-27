@@ -329,6 +329,10 @@ const siteConfig = {
         customText: "Join thousands of readers who trust Easy Digital Marketing for step-by-step marketing knowledge."
       }
     ],
+    automation: {
+      schedule: "Daily content automation",
+      technology: "Curated by experts"
+    },
     copyright: {
       text: "All rights reserved",
       showYear: true,
