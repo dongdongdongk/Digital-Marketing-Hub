@@ -9,7 +9,7 @@ const siteConfig = {
     name: "Easy Digital Marketing",
     title: "Easy Digital Marketing - Simple Guides & Tips",
     description: "Step-by-step digital marketing tips, SEO strategies, and social media growth guides for beginners and businesses.",
-    url: "https://easy-digital-marketing-blog.vercel.app",
+    url: "https://dmhub.roono.net",
     logo: "/logo.png",
     favicon: "/favicon.ico"
   },
