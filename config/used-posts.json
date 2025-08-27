@@ -343,11 +343,19 @@
       "upvotes": 9,
       "usedAt": "2025-08-27T10:24:38.065Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n0pckk/what_are_your_top_3_underrated_marketing_channels/"
+    },
+    {
+      "id": "1n1fcrr",
+      "title": "SEO News: August 2025 spam update begins rolling out globally, AI Mode now live in 180 countries, Merchant API replacing Content API for Shopping",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 10,
+      "usedAt": "2025-08-27T13:39:58.284Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n1fcrr/seo_news_august_2025_spam_update_begins_rolling/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 46,
+    "totalUsed": 47,
     "cleanupCount": 10
   }
 }
