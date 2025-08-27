@@ -1,0 +1,32 @@
+{
+  "date": "2025-08-26",
+  "timestamp": "2025-08-26T23:54:30.833Z",
+  "executionTimeMs": 15387,
+  "blog": {
+    "title": "Top Tools for Effortless Multi-Channel Content Management",
+    "filename": "20250827-0854-DigitalMarketing-any-tools-you-are-using-to-man.md",
+    "path": "F:\\2025WebProject\\BlogProject\\DigitalMarketingHubBlog\\content\\posts\\20250827-0854-DigitalMarketing-any-tools-you-are-using-to-man.md",
+    "contentLength": 3782,
+    "wordCount": 494
+  },
+  "source": {
+    "subreddit": "DigitalMarketing",
+    "originalTitle": "Any tools you are using to manage contents for different channels?",
+    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1n0fszt/any_tools_you_are_using_to_manage_contents_for/",
+    "engagement": {
+      "upvotes": 5,
+      "comments": 8
+    }
+  },
+  "stats": {
+    "aiModel": "gpt-4",
+    "promptTokens": "estimated",
+    "completionTokens": "estimated",
+    "totalCost": "estimated"
+  },
+  "metadata": {
+    "generatedBy": "generate-reddit-blog.js",
+    "version": "1.0.0",
+    "aiGenerator": "openai-reddit-generator"
+  }
+}
