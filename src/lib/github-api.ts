@@ -42,22 +42,31 @@ export class GitHubAPI {
 
   private async makeRequest(endpoint: string, options: RequestInit = {}) {
     const url = `${this.baseUrl}${endpoint}`;
+    
+    console.log(`GitHub API Request: ${url}`);
+    console.log(`Using token: ${this.config.token ? this.config.token.substring(0, 10) + '...' : 'NOT SET'}`);
+    
     const response = await fetch(url, {
       ...options,
       headers: {
         'Authorization': `Bearer ${this.config.token}`,
         'Accept': 'application/vnd.github.v3+json',
         'Content-Type': 'application/json',
+        'User-Agent': 'Digital-Marketing-Hub-Blog',
         ...options.headers,
       },
     });
 
     if (!response.ok) {
       const error = await response.text();
+      console.error(`GitHub API Error: ${response.status} ${response.statusText}`);
+      console.error(`Error details: ${error}`);
       throw new Error(`GitHub API error: ${response.status} ${response.statusText} - ${error}`);
     }
 
-    return response.json();
+    const data = await response.json();
+    console.log(`GitHub API Response: Success`);
+    return data;
   }
 
   /**
