@@ -25,14 +25,41 @@ export async function GET(request: NextRequest) {
 
     const { filename, title } = decoded
 
-    // 블로그 파일 경로
-    const blogFilePath = path.join(process.cwd(), 'content', 'posts', filename)
-
-    // 파일 존재 확인
+    // 제목으로 파일 찾기
+    const postsDir = path.join(process.cwd(), 'content', 'posts')
+    let blogFilePath = path.join(postsDir, filename)
+    
     try {
       await fs.access(blogFilePath)
     } catch (error) {
-      return Response.redirect(new URL('/delete-not-found', request.url))
+      // 파일명이 정확하지 않으면 제목으로 매칭
+      try {
+        const files = await fs.readdir(postsDir)
+        
+        // 각 파일의 제목을 읽어서 매칭
+        let foundFile = null
+        for (const file of files) {
+          if (file.endsWith('.md')) {
+            const filePath = path.join(postsDir, file)
+            const content = await fs.readFile(filePath, 'utf-8')
+            const titleMatch = content.match(/^title:\s*["'](.+)["']/m)
+            if (titleMatch && titleMatch[1] === title) {
+              foundFile = file
+              break
+            }
+          }
+        }
+        
+        if (foundFile) {
+          blogFilePath = path.join(postsDir, foundFile)
+          console.log(`Found file by title match: ${foundFile}`)
+        } else {
+          return Response.redirect(new URL('/delete-not-found', request.url))
+        }
+      } catch (dirError) {
+        console.error('Error searching files:', dirError)
+        return Response.redirect(new URL('/delete-not-found', request.url))
+      }
     }
 
     // 파일 삭제
@@ -83,17 +110,47 @@ export async function POST(request: NextRequest) {
 
     const { filename, title } = decoded
 
-    // 블로그 파일 경로
-    const blogFilePath = path.join(process.cwd(), 'content', 'posts', filename)
-
-    // 파일 존재 확인
+    // 제목으로 파일 찾기
+    const postsDir = path.join(process.cwd(), 'content', 'posts')
+    let blogFilePath = path.join(postsDir, filename)
+    
     try {
       await fs.access(blogFilePath)
     } catch (error) {
-      return NextResponse.json(
-        { error: 'Blog file not found' },
-        { status: 404 }
-      )
+      // 파일명이 정확하지 않으면 제목으로 매칭
+      try {
+        const files = await fs.readdir(postsDir)
+        
+        // 각 파일의 제목을 읽어서 매칭
+        let foundFile = null
+        for (const file of files) {
+          if (file.endsWith('.md')) {
+            const filePath = path.join(postsDir, file)
+            const content = await fs.readFile(filePath, 'utf-8')
+            const titleMatch = content.match(/^title:\s*["'](.+)["']/m)
+            if (titleMatch && titleMatch[1] === title) {
+              foundFile = file
+              break
+            }
+          }
+        }
+        
+        if (foundFile) {
+          blogFilePath = path.join(postsDir, foundFile)
+          console.log(`Found file by title match: ${foundFile}`)
+        } else {
+          return NextResponse.json(
+            { error: 'Blog file not found' },
+            { status: 404 }
+          )
+        }
+      } catch (dirError) {
+        console.error('Error searching files:', dirError)
+        return NextResponse.json(
+          { error: 'Blog file not found' },
+          { status: 404 }
+        )
+      }
     }
 
     // 파일 삭제
