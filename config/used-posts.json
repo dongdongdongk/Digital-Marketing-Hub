@@ -407,11 +407,19 @@
       "upvotes": 6,
       "usedAt": "2025-08-28T17:32:03.758Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n1qzvh/managing_pinterest_for_8_clients_without_losing/"
+    },
+    {
+      "id": "1n2j39u",
+      "title": "Anyone else dealing with campaigns that were optimized but performance still declined?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 10,
+      "usedAt": "2025-08-28T18:22:26.069Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n2j39u/anyone_else_dealing_with_campaigns_that_were/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 53,
+    "totalUsed": 54,
     "cleanupCount": 10
   }
 }
