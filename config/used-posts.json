@@ -399,11 +399,19 @@
       "upvotes": 7,
       "usedAt": "2025-08-28T17:08:59.399Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n216ry/what_is_the_best_way_to_market_my_digital_product/"
+    },
+    {
+      "id": "1n1qzvh",
+      "title": "Managing Pinterest for 8 clients without losing my sanity - my tool stack",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 6,
+      "usedAt": "2025-08-28T17:32:03.758Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n1qzvh/managing_pinterest_for_8_clients_without_losing/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 52,
+    "totalUsed": 53,
     "cleanupCount": 10
   }
 }
