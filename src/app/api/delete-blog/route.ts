@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { promises as fs } from 'fs'
-import path from 'path'
+import GitHubAPI from '@/lib/github-api'
 
 const TokenManager = require('../../../../scripts/utils/token-manager')
 
@@ -25,52 +24,20 @@ export async function GET(request: NextRequest) {
 
     const { filename, title } = decoded
 
-    // 제목으로 파일 찾기
-    const postsDir = path.join(process.cwd(), 'content', 'posts')
-    let blogFilePath = path.join(postsDir, filename)
-    
+    // GitHub API를 사용해서 파일 삭제
     try {
-      await fs.access(blogFilePath)
-    } catch (error) {
-      // 파일명이 정확하지 않으면 제목으로 매칭
-      try {
-        const files = await fs.readdir(postsDir)
-        
-        // 각 파일의 제목을 읽어서 매칭
-        let foundFile = null
-        for (const file of files) {
-          if (file.endsWith('.md')) {
-            const filePath = path.join(postsDir, file)
-            const content = await fs.readFile(filePath, 'utf-8')
-            const titleMatch = content.match(/^title:\s*["'](.+)["']/m)
-            if (titleMatch && titleMatch[1] === title) {
-              foundFile = file
-              break
-            }
-          }
-        }
-        
-        if (foundFile) {
-          blogFilePath = path.join(postsDir, foundFile)
-          console.log(`Found file by title match: ${foundFile}`)
-        } else {
-          return Response.redirect(new URL('/delete-not-found', request.url))
-        }
-      } catch (dirError) {
-        console.error('Error searching files:', dirError)
+      const githubAPI = new GitHubAPI()
+      const result = await githubAPI.deleteBlogPost(filename, title)
+      
+      if (result.success) {
+        console.log(`Blog deleted via GitHub API: ${result.deletedFile} - ${title}`)
+        return Response.redirect(new URL('/delete-success', request.url))
+      } else {
+        console.error('GitHub API delete failed:', result.message)
         return Response.redirect(new URL('/delete-not-found', request.url))
       }
-    }
-
-    // 파일 삭제
-    try {
-      await fs.unlink(blogFilePath)
-      
-      console.log(`Blog deleted: ${filename} - ${title}`)
-      
-      return Response.redirect(new URL('/delete-success', request.url))
     } catch (deleteError) {
-      console.error('Failed to delete blog file:', deleteError)
+      console.error('GitHub API error:', deleteError)
       return Response.redirect(new URL('/delete-expired?reason=delete_failed', request.url))
     }
 
@@ -104,64 +71,33 @@ export async function POST(request: NextRequest) {
 
     const { filename, title } = decoded
 
-    // 제목으로 파일 찾기
-    const postsDir = path.join(process.cwd(), 'content', 'posts')
-    let blogFilePath = path.join(postsDir, filename)
-    
+    // GitHub API를 사용해서 파일 삭제
     try {
-      await fs.access(blogFilePath)
-    } catch (error) {
-      // 파일명이 정확하지 않으면 제목으로 매칭
-      try {
-        const files = await fs.readdir(postsDir)
-        
-        // 각 파일의 제목을 읽어서 매칭
-        let foundFile = null
-        for (const file of files) {
-          if (file.endsWith('.md')) {
-            const filePath = path.join(postsDir, file)
-            const content = await fs.readFile(filePath, 'utf-8')
-            const titleMatch = content.match(/^title:\s*["'](.+)["']/m)
-            if (titleMatch && titleMatch[1] === title) {
-              foundFile = file
-              break
-            }
-          }
-        }
-        
-        if (foundFile) {
-          blogFilePath = path.join(postsDir, foundFile)
-          console.log(`Found file by title match: ${foundFile}`)
-        } else {
-          return NextResponse.json(
-            { error: 'Blog file not found' },
-            { status: 404 }
-          )
-        }
-      } catch (dirError) {
-        console.error('Error searching files:', dirError)
+      const githubAPI = new GitHubAPI()
+      const result = await githubAPI.deleteBlogPost(filename, title)
+      
+      if (result.success) {
+        console.log(`Blog deleted via GitHub API: ${result.deletedFile} - ${title}`)
+        return NextResponse.json({
+          success: true,
+          message: result.message,
+          filename: filename,
+          title: title,
+          deletedFile: result.deletedFile
+        })
+      } else {
+        console.error('GitHub API delete failed:', result.message)
         return NextResponse.json(
-          { error: 'Blog file not found' },
+          { error: result.message },
           { status: 404 }
         )
       }
-    }
-
-    // 파일 삭제
-    try {
-      await fs.unlink(blogFilePath)
-      
-      console.log(`Blog deleted via API: ${filename} - ${title}`)
-      
-      return NextResponse.json({
-        success: true,
-        message: 'Blog successfully deleted',
-        filename: filename,
-        title: title
-      })
     } catch (deleteError) {
-      console.error('Failed to delete blog file:', deleteError)
-      return Response.redirect(new URL('/delete-expired?reason=delete_failed', request.url))
+      console.error('GitHub API error:', deleteError)
+      return NextResponse.json(
+        { error: deleteError instanceof Error ? deleteError.message : 'Failed to delete blog file' },
+        { status: 500 }
+      )
     }
 
   } catch (error) {
