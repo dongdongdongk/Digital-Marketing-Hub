@@ -375,11 +375,19 @@
       "upvotes": 23,
       "usedAt": "2025-08-28T12:22:50.666Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n232qd/do_backlinks_still_matter_as_much_in_2025/"
+    },
+    {
+      "id": "1n1vp4q",
+      "title": "Trying to get into marketing to advertise my product, but honestly im stuck",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 9,
+      "usedAt": "2025-08-28T14:29:06.647Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n1vp4q/trying_to_get_into_marketing_to_advertise_my/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 49,
+    "totalUsed": 50,
     "cleanupCount": 10
   }
 }
