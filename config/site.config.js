@@ -239,11 +239,103 @@ const siteConfig = {
     contactFormError: "Failed to send message",
     contactFormErrorDesc: "Please try again or email us at {email}",
 
+    aboutPageTitle: "About Easy Digital Marketing",
+    aboutPageSubtitle: "Meet the team behind practical digital marketing education",
+
     featureBadges: [
       { icon: "trending-up", text: "Beginner-Friendly" },
       { icon: "calendar", text: "Practical Strategies" },
       { icon: "zap", text: "Step-by-Step Guides" }
     ]
+  },
+
+  // === About Page Configuration ===
+  aboutPage: {
+    hero: {
+      title: "About Easy Digital Marketing",
+      subtitle: "Simple marketing tips and insights for everyone",
+      description: "We share practical digital marketing information through easy-to-read blog posts. No complicated jargon, just helpful tips you can actually use."
+    },
+    team: {
+      title: "Who We Are",
+      subtitle: "Marketers who love sharing useful tips",
+      members: [
+        {
+          name: "Content Writers",
+          role: "SEO & Content Specialists",
+          expertise: ["Search Engine Optimization", "Content Marketing", "Technical SEO", "Local SEO"],
+          experience: "We write about SEO tips and tricks that actually work in real situations",
+          image: "/team/seo-team.jpg"
+        },
+        {
+          name: "Social Media Writers",
+          role: "Social Media & Ads Specialists",
+          expertise: ["Facebook Ads", "Instagram Marketing", "LinkedIn Strategy", "TikTok Growth"],
+          experience: "We share what we've learned from running social media campaigns",
+          image: "/team/social-team.jpg"
+        },
+        {
+          name: "Data Writers",
+          role: "Analytics & Performance Specialists",
+          expertise: ["Google Analytics", "Conversion Tracking", "Performance Marketing", "A/B Testing"],
+          experience: "We explain data and analytics in simple terms through our blog posts",
+          image: "/team/analytics-team.jpg"
+        }
+      ]
+    },
+    mission: {
+      title: "What We Do",
+      content: "We write blog posts about digital marketing that are easy to understand and actually useful. No fancy theories - just practical information you can apply right away.",
+      values: [
+        {
+          title: "Easy to Read",
+          description: "Our blog posts are written in simple language with clear examples",
+          icon: "book-open"
+        },
+        {
+          title: "Real Experience",
+          description: "We share tips based on what we've actually tried and tested",
+          icon: "chart-line"
+        },
+        {
+          title: "No Jargon",
+          description: "Marketing doesn't have to be complicated - we keep it simple",
+          icon: "academic-cap"
+        },
+        {
+          title: "Fresh Content",
+          description: "We regularly post new articles about current marketing trends",
+          icon: "refresh"
+        }
+      ]
+    },
+    authority: {
+      title: "Why Trust Us",
+      credentials: [
+        "Hands-on experience across various industries",
+        "We've worked with small businesses to understand real challenges",
+        "Combined practical experience in digital marketing",
+        "Focus on strategies that actually work for everyday businesses",
+        "Certified in Google Ads, Facebook Blueprint, and other platforms"
+      ],
+      stats: [
+        { number: "100+", label: "Projects Completed" },
+        { number: "5+", label: "Years Experience" },
+        { number: "Real", label: "World Results" },
+        { number: "Simple", label: "Explanations" }
+      ]
+    },
+    company: {
+      logo: "/logo-about.png",
+      founded: "2020",
+      location: "Global Team",
+      description: "Easy Digital Marketing is a blog where we share marketing tips and insights. We started because we wanted to create a place where people could find straightforward marketing advice without all the confusing industry speak.",
+      certifications: [
+        { name: "Google Partner", image: "/cert/google-partner.png" },
+        { name: "Facebook Marketing Partner", image: "/cert/facebook-partner.png" },
+        { name: "HubSpot Certified", image: "/cert/hubspot-cert.png" }
+      ]
+    }
   },
 
   // === Social Media ===
@@ -280,10 +372,12 @@ const siteConfig = {
   navigation: {
     main: [
       { name: "Home", href: "/", external: false },
+      { name: "About", href: "/about", external: false },
       { name: "Contact", href: "/contact", external: false }
     ],
     footer: [
       { name: "Home", href: "/" },
+      { name: "About", href: "/about" },
       { name: "SEO Tips", href: "/seo" },
       { name: "Social Media", href: "/social" },
       { name: "Contact Us", href: "/contact" }

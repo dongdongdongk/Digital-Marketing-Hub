@@ -359,11 +359,19 @@
       "upvotes": 6,
       "usedAt": "2025-08-27T17:31:45.650Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n1dify/how_are_you_guys_tracking_how_you_show_up_in_ai/"
+    },
+    {
+      "id": "1n232qd",
+      "title": "Do backlinks still matter as much in 2025?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 23,
+      "usedAt": "2025-08-28T12:22:50.666Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n232qd/do_backlinks_still_matter_as_much_in_2025/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 48,
+    "totalUsed": 49,
     "cleanupCount": 10
   }
 }

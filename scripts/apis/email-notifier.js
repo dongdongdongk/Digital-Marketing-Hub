@@ -5,11 +5,13 @@
 
 const nodemailer = require('nodemailer');
 const siteConfig = require('../../config/site.config');
+const TokenManager = require('../utils/token-manager');
 
 class EmailNotifier {
   constructor(logger) {
     this.logger = logger;
     this.transporter = null;
+    this.tokenManager = new TokenManager();
     this.initializeTransporter();
   }
 
@@ -102,6 +104,11 @@ class EmailNotifier {
 
     const blogUrl = `${siteConfig.site.url}/${blog.filename.replace('.md', '')}`;
     const redditUrl = sourceData.originalUrl;
+    
+    // 삭제 토큰 및 URL 생성
+    const deleteUrl = this.tokenManager.generateDeleteUrl(blog.filename, title, siteConfig.site.url);
+    const tokenExpiry = new Date();
+    tokenExpiry.setDate(tokenExpiry.getDate() + 7); // 7일 후 만료
 
     const html = `
     <!DOCTYPE html>
@@ -292,6 +299,25 @@ class EmailNotifier {
                 </a>
             </div>
 
+            <!-- 삭제 버튼 섹션 -->
+            <div style="background: #fff3e0; border: 2px solid #ff9800; border-radius: 12px; padding: 25px; margin: 30px 0; text-align: center;">
+                <h3 style="color: #e65100; margin-bottom: 15px; font-size: 18px;">
+                    🗑️ 블로그 글 삭제하기
+                </h3>
+                <p style="color: #bf360c; margin-bottom: 20px; font-size: 14px; line-height: 1.5;">
+                    이 글이 부적절하거나 삭제를 원하시면 아래 버튼을 클릭하세요.<br>
+                    <strong>⚠️ 삭제 링크는 ${tokenExpiry.toLocaleDateString('ko-KR')}까지 유효합니다 (7일간).</strong>
+                </p>
+                <a href="${deleteUrl}" style="display: inline-block; background: #d32f2f; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; font-weight: bold; margin: 10px; box-shadow: 0 4px 6px rgba(211, 47, 47, 0.3); transition: all 0.2s;">
+                    🗑️ 이 글 삭제하기
+                </a>
+                <div style="font-size: 12px; color: #795548; margin-top: 15px; line-height: 1.4;">
+                    • 삭제는 즉시 처리되며 되돌릴 수 없습니다<br>
+                    • 링크는 보안을 위해 7일 후 자동 만료됩니다<br>
+                    • 문의사항이 있으시면 연락 주세요
+                </div>
+            </div>
+
             <div class="stats">
                 <h3>📊 생성 통계</h3>
                 <p>• <strong>태그:</strong> ${metadata.tags.join(', ')}</p>
@@ -343,6 +369,17 @@ class EmailNotifier {
 🔗 링크:
 - Reddit 원본: ${redditUrl}
 - 생성된 블로그: ${blogUrl}
+
+🗑️ 블로그 글 삭제:
+이 글이 부적절하거나 삭제를 원하시면 아래 링크를 클릭하세요.
+⚠️ 삭제 링크는 ${tokenExpiry.toLocaleDateString('ko-KR')}까지 유효합니다 (7일간).
+
+삭제 링크: ${deleteUrl}
+
+주의사항:
+- 삭제는 즉시 처리되며 되돌릴 수 없습니다
+- 링크는 보안을 위해 7일 후 자동 만료됩니다
+- 문의사항이 있으시면 연락 주세요
 
 📊 통계:
 - 카테고리: ${metadata.category}
