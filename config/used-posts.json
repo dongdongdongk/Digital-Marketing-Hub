@@ -391,11 +391,19 @@
       "upvotes": 9,
       "usedAt": "2025-08-28T14:55:03.053Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n20ciq/posting_a_friends_marketing_mistake_so_you_can/"
+    },
+    {
+      "id": "1n216ry",
+      "title": "What is the best way to Market my digital product for free?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 7,
+      "usedAt": "2025-08-28T17:08:59.399Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n216ry/what_is_the_best_way_to_market_my_digital_product/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 51,
+    "totalUsed": 52,
     "cleanupCount": 10
   }
 }
