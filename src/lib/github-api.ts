@@ -49,10 +49,11 @@ export class GitHubAPI {
     const response = await fetch(url, {
       ...options,
       headers: {
-        'Authorization': `Bearer ${this.config.token}`,
+        'Authorization': `token ${this.config.token}`,
         'Accept': 'application/vnd.github.v3+json',
         'Content-Type': 'application/json',
         'User-Agent': 'Digital-Marketing-Hub-Blog',
+        'X-GitHub-Api-Version': '2022-11-28',
         ...options.headers,
       },
     });
