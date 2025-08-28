@@ -383,11 +383,19 @@
       "upvotes": 9,
       "usedAt": "2025-08-28T14:29:06.647Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n1vp4q/trying_to_get_into_marketing_to_advertise_my/"
+    },
+    {
+      "id": "1n20ciq",
+      "title": "Posting a friend’s *marketing* mistake so you can AVOID it too.",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 9,
+      "usedAt": "2025-08-28T14:55:03.053Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n20ciq/posting_a_friends_marketing_mistake_so_you_can/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 50,
+    "totalUsed": 51,
     "cleanupCount": 10
   }
 }
