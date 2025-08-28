@@ -71,18 +71,12 @@ export async function GET(request: NextRequest) {
       return Response.redirect(new URL('/delete-success', request.url))
     } catch (deleteError) {
       console.error('Failed to delete blog file:', deleteError)
-      return NextResponse.json(
-        { error: 'Failed to delete blog file' },
-        { status: 500 }
-      )
+      return Response.redirect(new URL('/delete-expired?reason=delete_failed', request.url))
     }
 
   } catch (error) {
     console.error('Delete blog error:', error)
-    return NextResponse.json(
-      { error: 'Internal server error' },
-      { status: 500 }
-    )
+    return Response.redirect(new URL('/delete-expired?reason=server_error', request.url))
   }
 }
 
@@ -167,10 +161,7 @@ export async function POST(request: NextRequest) {
       })
     } catch (deleteError) {
       console.error('Failed to delete blog file:', deleteError)
-      return NextResponse.json(
-        { error: 'Failed to delete blog file' },
-        { status: 500 }
-      )
+      return Response.redirect(new URL('/delete-expired?reason=delete_failed', request.url))
     }
 
   } catch (error) {
