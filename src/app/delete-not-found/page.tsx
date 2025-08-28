@@ -15,7 +15,7 @@ export default function DeleteNotFoundPage() {
           Blog Post Not Found
         </h1>
         <p className="text-lg text-gray-600 mb-8">
-          The blog post you're trying to delete could not be found.
+          The blog post you&apos;re trying to delete could not be found.
         </p>
       </div>
 
