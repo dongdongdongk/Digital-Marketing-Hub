@@ -407,11 +407,35 @@
       "upvotes": 6,
       "usedAt": "2025-08-28T17:32:03.758Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n1qzvh/managing_pinterest_for_8_clients_without_losing/"
+    },
+    {
+      "id": "1n2j39u",
+      "title": "Anyone else dealing with campaigns that were optimized but performance still declined?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 10,
+      "usedAt": "2025-08-28T18:22:26.069Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n2j39u/anyone_else_dealing_with_campaigns_that_were/"
+    },
+    {
+      "id": "1n2czja",
+      "title": "Right path for digital marketing.",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 12,
+      "usedAt": "2025-08-29T02:04:41.348Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n2czja/right_path_for_digital_marketing/"
+    },
+    {
+      "id": "1n2ho1e",
+      "title": "how do you keep up with AI without the FOMO?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 20,
+      "usedAt": "2025-08-29T13:38:35.707Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n2ho1e/how_do_you_keep_up_with_ai_without_the_fomo/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 53,
+    "totalUsed": 56,
     "cleanupCount": 10
   }
 }
