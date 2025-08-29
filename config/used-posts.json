@@ -415,11 +415,19 @@
       "upvotes": 10,
       "usedAt": "2025-08-28T18:22:26.069Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n2j39u/anyone_else_dealing_with_campaigns_that_were/"
+    },
+    {
+      "id": "1n2czja",
+      "title": "Right path for digital marketing.",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 12,
+      "usedAt": "2025-08-29T02:04:41.348Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n2czja/right_path_for_digital_marketing/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 54,
+    "totalUsed": 55,
     "cleanupCount": 10
   }
 }
