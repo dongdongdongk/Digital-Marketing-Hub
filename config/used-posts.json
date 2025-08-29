@@ -423,11 +423,19 @@
       "upvotes": 12,
       "usedAt": "2025-08-29T02:04:41.348Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n2czja/right_path_for_digital_marketing/"
+    },
+    {
+      "id": "1n2ho1e",
+      "title": "how do you keep up with AI without the FOMO?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 20,
+      "usedAt": "2025-08-29T13:38:35.707Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n2ho1e/how_do_you_keep_up_with_ai_without_the_fomo/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 55,
+    "totalUsed": 56,
     "cleanupCount": 10
   }
 }
