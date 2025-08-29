@@ -12,19 +12,19 @@ export default function DeleteSuccessPage() {
           </svg>
         </div>
         <h1 className="text-3xl font-bold text-gray-900 mb-4">
-          Blog Post Deleted Successfully
+          블로그 포스트 삭제 완료
         </h1>
         <p className="text-lg text-gray-600 mb-8">
-          The blog post has been permanently removed from our website.
+          블로그 포스트가 저희 웹사이트에서 영구적으로 삭제되었습니다.
         </p>
       </div>
 
       <div className="bg-green-50 rounded-lg p-6 mb-8">
         <h2 className="text-lg font-semibold text-green-800 mb-2">
-          ✅ What happened?
+          ✅ 무엇이 일어났나요?
         </h2>
         <p className="text-green-700">
-          Your blog post deletion request has been processed successfully. The content is no longer accessible on our website.
+          블로그 포스트 삭제 요청이 성공적으로 처리되었습니다. 해당 콘텐츠는 더 이상 저희 웹사이트에서 접근할 수 없습니다.
         </p>
       </div>
 
@@ -33,10 +33,10 @@ export default function DeleteSuccessPage() {
           href="/"
           className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-primary-700 transition-colors"
         >
-          Return to Homepage
+          홈으로 돌아가기
         </Link>
         <p className="text-sm text-gray-500">
-          If you have any questions, please feel free to <Link href="/contact" className="text-primary-600 hover:underline">contact us</Link>.
+          궁금한 사항이 있으시면 언제든지 <Link href="/contact" className="text-primary-600 hover:underline">연락해 주세요</Link>.
         </p>
       </div>
     </div>
@@ -44,8 +44,8 @@ export default function DeleteSuccessPage() {
 }
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: 'Blog Post Deleted Successfully',
-  description: 'Your blog post deletion request has been processed successfully.',
+  title: '블로그 포스트 삭제 완료',
+  description: '블로그 포스트 삭제 요청이 성공적으로 처리되었습니다.',
   url: '/delete-success',
   type: 'website'
 })

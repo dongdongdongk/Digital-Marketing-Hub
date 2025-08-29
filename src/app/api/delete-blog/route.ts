@@ -10,7 +10,7 @@ export async function GET(request: NextRequest) {
 
     if (!token) {
       return NextResponse.json(
-        { error: 'Delete token is required' },
+        { error: '삭제 토큰이 필요합니다' },
         { status: 400 }
       )
     }
@@ -54,7 +54,7 @@ export async function POST(request: NextRequest) {
 
     if (!token) {
       return NextResponse.json(
-        { error: 'Delete token is required' },
+        { error: '삭제 토큰이 필요합니다' },
         { status: 400 }
       )
     }
@@ -64,7 +64,7 @@ export async function POST(request: NextRequest) {
 
     if (!decoded) {
       return NextResponse.json(
-        { error: 'Invalid or expired token' },
+        { error: '유효하지 않거나 만료된 토큰입니다' },
         { status: 401 }
       )
     }
@@ -95,7 +95,7 @@ export async function POST(request: NextRequest) {
     } catch (deleteError) {
       console.error('GitHub API error:', deleteError)
       return NextResponse.json(
-        { error: deleteError instanceof Error ? deleteError.message : 'Failed to delete blog file' },
+        { error: deleteError instanceof Error ? deleteError.message : '블로그 파일 삭제에 실패했습니다' },
         { status: 500 }
       )
     }
@@ -103,7 +103,7 @@ export async function POST(request: NextRequest) {
   } catch (error) {
     console.error('Delete blog API error:', error)
     return NextResponse.json(
-      { error: 'Internal server error' },
+      { error: '내부 서버 오류' },
       { status: 500 }
     )
   }

@@ -12,30 +12,30 @@ export default function DeleteExpiredPage() {
           </svg>
         </div>
         <h1 className="text-3xl font-bold text-gray-900 mb-4">
-          Delete Link Expired
+          삭제 링크 만료
         </h1>
         <p className="text-lg text-gray-600 mb-8">
-          The deletion link you used has expired or is no longer valid.
+          사용하신 삭제 링크가 만료되었거나 더 이상 유효하지 않습니다.
         </p>
       </div>
 
       <div className="bg-amber-50 rounded-lg p-6 mb-8">
         <h2 className="text-lg font-semibold text-amber-800 mb-2">
-          ⏰ Why did this happen?
+          ⏰ 왜 이런 일이 발생했나요?
         </h2>
         <ul className="text-amber-700 text-left space-y-2">
-          <li>• Delete links expire after 7 days for security reasons</li>
-          <li>• The link may have already been used</li>
-          <li>• The blog post might have been deleted by other means</li>
+          <li>• 보안상의 이유로 삭제 링크는 7일 후 만료됩니다</li>
+          <li>• 이미 사용된 링크일 수 있습니다</li>
+          <li>• 블로그 포스트가 다른 방법으로 삭제되었을 수 있습니다</li>
         </ul>
       </div>
 
       <div className="bg-blue-50 rounded-lg p-6 mb-8">
         <h2 className="text-lg font-semibold text-blue-800 mb-2">
-          💡 What can you do?
+          💡 어떻게 해야 하나요?
         </h2>
         <p className="text-blue-700 mb-4">
-          If you still need to delete a blog post, please contact our support team directly.
+          여전히 블로그 포스트를 삭제해야 한다면, 고객 지원팀에 직접 문의해 주세요.
         </p>
       </div>
 
@@ -45,17 +45,17 @@ export default function DeleteExpiredPage() {
             href="/contact"
             className="inline-block bg-primary-600 text-white px-6 py-3 rounded-lg font-medium hover:bg-primary-700 transition-colors"
           >
-            Contact Support
+            고객 지원팀 문의
           </Link>
           <Link 
             href="/"
             className="inline-block bg-gray-100 text-gray-700 px-6 py-3 rounded-lg font-medium hover:bg-gray-200 transition-colors"
           >
-            Return to Homepage
+            홈으로 돌아가기
           </Link>
         </div>
         <p className="text-sm text-gray-500">
-          Our support team will help you with any content removal requests.
+          저희 고객 지원팀이 콘텐츠 삭제 요청에 대해 도움을 드리겠습니다.
         </p>
       </div>
     </div>
@@ -63,8 +63,8 @@ export default function DeleteExpiredPage() {
 }
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: 'Delete Link Expired - Contact Support',
-  description: 'Your delete link has expired. Contact our support team for assistance with content removal.',
+  title: '삭제 링크 만료 - 고객 지원팀 문의',
+  description: '삭제 링크가 만료되었습니다. 콘텐츠 삭제 지원을 위해 고객 지원팀에 문의해 주세요.',
   url: '/delete-expired',
   type: 'website'
 })
