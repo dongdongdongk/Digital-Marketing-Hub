@@ -431,11 +431,27 @@
       "upvotes": 20,
       "usedAt": "2025-08-29T13:38:35.707Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n2ho1e/how_do_you_keep_up_with_ai_without_the_fomo/"
+    },
+    {
+      "id": "1n2kdan",
+      "title": "How much of social media success is actual strategy, and how much is just luck?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 11,
+      "usedAt": "2025-08-29T17:30:51.999Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n2kdan/how_much_of_social_media_success_is_actual/"
+    },
+    {
+      "id": "1n39nvl",
+      "title": "Not sure if Fiverr is trolling or genius-marketing 2025",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 7,
+      "usedAt": "2025-08-30T01:59:09.200Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n39nvl/not_sure_if_fiverr_is_trolling_or_geniusmarketing/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 56,
+    "totalUsed": 58,
     "cleanupCount": 10
   }
 }
