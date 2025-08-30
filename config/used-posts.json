@@ -463,11 +463,19 @@
       "upvotes": 19,
       "usedAt": "2025-08-30T13:32:01.352Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n3xgzh/im_not_a_fan_of_the_current_state_of_digital/"
+    },
+    {
+      "id": "1n3pxm4",
+      "title": "Is high exposure or high conversion more important for a startup brand?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 15,
+      "usedAt": "2025-08-30T17:28:59.328Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n3pxm4/is_high_exposure_or_high_conversion_more/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 60,
+    "totalUsed": 61,
     "cleanupCount": 10
   }
 }
