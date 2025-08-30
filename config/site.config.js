@@ -177,7 +177,7 @@ const siteConfig = {
         "분석": "analytics"
       },
       allowedEnglishKeywords: [
-        "digital marketing", "seo", "business", "advertising",
+        "digital marketing","business", "advertising",
         "social media", "branding", "analytics", "tips", "guide"
       ],
       defaultKeywords: ["digital marketing", "seo"]
