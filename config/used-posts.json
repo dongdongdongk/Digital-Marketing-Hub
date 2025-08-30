@@ -447,11 +447,19 @@
       "upvotes": 7,
       "usedAt": "2025-08-30T01:59:09.200Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n39nvl/not_sure_if_fiverr_is_trolling_or_geniusmarketing/"
+    },
+    {
+      "id": "1n3p174",
+      "title": "I'm a doctor and a tired of it, i want to learn digital marketing and make a living out of it.",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 11,
+      "usedAt": "2025-08-30T04:39:02.329Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n3p174/im_a_doctor_and_a_tired_of_it_i_want_to_learn/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 58,
+    "totalUsed": 59,
     "cleanupCount": 10
   }
 }
