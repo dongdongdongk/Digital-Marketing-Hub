@@ -1,18 +1,27 @@
 import Link from 'next/link'
-import { getBranding, getNavigation } from '@/lib/config'
+import Image from 'next/image'
+import { getBranding, getNavigation, getAboutPageConfig } from '@/lib/config'
 
 export default function Header() {
   const branding = getBranding()
   const navigation = getNavigation()
+  const aboutConfig = getAboutPageConfig()
   return (
     <header className="bg-white/80 backdrop-blur-md border-b border-gray-200/50 sticky top-0 z-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 lg:py-6">
         <div className="flex items-center justify-between">
           <Link 
             href="/" 
-            className="text-2xl lg:text-2xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent hover:from-primary-700 hover:to-secondary-700 transition-all duration-200"
+            className="flex items-center space-x-3 text-2xl lg:text-2xl font-bold bg-gradient-to-r from-primary-600 to-secondary-600 bg-clip-text text-transparent hover:from-primary-700 hover:to-secondary-700 transition-all duration-200"
           >
-            {branding.siteName}
+            <Image
+              src={aboutConfig.company.logo}
+              alt={branding.siteName}
+              width={40}
+              height={40}
+              className="rounded-lg"
+            />
+            <span>{branding.siteName}</span>
           </Link>
           
           <nav className="hidden md:flex items-center space-x-6 lg:space-x-8">
