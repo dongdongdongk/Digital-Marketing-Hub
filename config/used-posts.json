@@ -455,11 +455,19 @@
       "upvotes": 11,
       "usedAt": "2025-08-30T04:39:02.329Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n3p174/im_a_doctor_and_a_tired_of_it_i_want_to_learn/"
+    },
+    {
+      "id": "1n3xgzh",
+      "title": "I'm not a fan of the current state of digital marketing",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 19,
+      "usedAt": "2025-08-30T13:32:01.352Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n3xgzh/im_not_a_fan_of_the_current_state_of_digital/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 59,
+    "totalUsed": 60,
     "cleanupCount": 10
   }
 }
