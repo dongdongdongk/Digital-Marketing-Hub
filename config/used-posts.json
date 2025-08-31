@@ -479,11 +479,19 @@
       "upvotes": 7,
       "usedAt": "2025-08-31T02:15:41.556Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n3v0hk/whats_the_best_beginnerfriendly_roadmap_for/"
+    },
+    {
+      "id": "1n4nza1",
+      "title": "Reddit marketing is underrated",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 16,
+      "usedAt": "2025-08-31T13:32:46.815Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n4nza1/reddit_marketing_is_underrated/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 62,
+    "totalUsed": 63,
     "cleanupCount": 10
   }
 }
