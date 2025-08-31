@@ -471,11 +471,19 @@
       "upvotes": 15,
       "usedAt": "2025-08-30T17:28:59.328Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n3pxm4/is_high_exposure_or_high_conversion_more/"
+    },
+    {
+      "id": "1n3v0hk",
+      "title": "What’s the best beginner-friendly roadmap for starting a website development journey and growing it into a business model?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 7,
+      "usedAt": "2025-08-31T02:15:41.556Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n3v0hk/whats_the_best_beginnerfriendly_roadmap_for/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 61,
+    "totalUsed": 62,
     "cleanupCount": 10
   }
 }
