@@ -495,11 +495,19 @@
       "upvotes": 6,
       "usedAt": "2025-08-31T17:29:43.848Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n4bweh/introduction_of_my_new_store/"
+    },
+    {
+      "id": "1n4za5r",
+      "title": "No more marketing jobs due to AI ?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 31,
+      "usedAt": "2025-09-01T02:27:16.388Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n4za5r/no_more_marketing_jobs_due_to_ai/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 64,
+    "totalUsed": 65,
     "cleanupCount": 10
   }
 }
