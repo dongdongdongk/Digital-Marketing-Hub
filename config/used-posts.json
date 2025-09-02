@@ -527,11 +527,19 @@
       "upvotes": 10,
       "usedAt": "2025-09-02T02:12:16.251Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n5jp1j/which_platform_is_better_google_or_meta/"
+    },
+    {
+      "id": "1n6epv2",
+      "title": "What are some lesser known marketing tools that every marketer should know about? Hidden gems?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 28,
+      "usedAt": "2025-09-02T13:42:03.593Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n6epv2/what_are_some_lesser_known_marketing_tools_that/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 68,
+    "totalUsed": 69,
     "cleanupCount": 10
   }
 }
