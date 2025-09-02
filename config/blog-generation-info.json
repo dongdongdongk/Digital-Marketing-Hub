@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-01",
-  "timestamp": "2025-09-01T17:30:29.351Z",
-  "executionTimeMs": 14653,
+  "date": "2025-09-02",
+  "timestamp": "2025-09-02T02:12:25.523Z",
+  "executionTimeMs": 10054,
   "blog": {
-    "title": "How ChatGPT Helped Me Avoid $3K in Bootcamp Fees",
-    "filename": "20250901-1730-DigitalMarketing-how-chatgpt-saved-me-3000-in-b.md",
-    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250901-1730-DigitalMarketing-how-chatgpt-saved-me-3000-in-b.md",
-    "contentLength": 3358,
-    "wordCount": 423
+    "title": "Google vs Meta: Which Reigns Supreme in 2023?",
+    "filename": "20250902-0212-DigitalMarketing-which-platform-is-better-googl.md",
+    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250902-0212-DigitalMarketing-which-platform-is-better-googl.md",
+    "contentLength": 3458,
+    "wordCount": 462
   },
   "source": {
     "subreddit": "DigitalMarketing",
-    "originalTitle": "How ChatGPT saved me $3,000 in bootcamp fees",
-    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1n50sbk/how_chatgpt_saved_me_3000_in_bootcamp_fees/",
+    "originalTitle": "Which platform is better, Google or Meta?",
+    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1n5jp1j/which_platform_is_better_google_or_meta/",
     "engagement": {
-      "upvotes": 12,
-      "comments": 4
+      "upvotes": 10,
+      "comments": 35
     }
   },
   "stats": {
