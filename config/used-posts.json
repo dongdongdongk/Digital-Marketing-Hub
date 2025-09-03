@@ -551,11 +551,19 @@
       "upvotes": 17,
       "usedAt": "2025-09-03T01:58:28.268Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n673bb/what_do_you_think_about_hiring_is_it_necessary/"
+    },
+    {
+      "id": "1n7465s",
+      "title": "Interviewer put me on the spot and I bombed",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 29,
+      "usedAt": "2025-09-03T13:37:54.990Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n7465s/interviewer_put_me_on_the_spot_and_i_bombed/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 71,
+    "totalUsed": 72,
     "cleanupCount": 10
   }
 }
