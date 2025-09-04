@@ -567,11 +567,19 @@
       "upvotes": 23,
       "usedAt": "2025-09-03T17:31:07.301Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n77eis/any_tips_as_beginner_to_start_succesfull_campaign/"
+    },
+    {
+      "id": "1n7othy",
+      "title": "9 marketing tools I lean on almost every single day + why",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 13,
+      "usedAt": "2025-09-04T01:59:02.659Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n7othy/9_marketing_tools_i_lean_on_almost_every_single/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 73,
+    "totalUsed": 74,
     "cleanupCount": 10
   }
 }
