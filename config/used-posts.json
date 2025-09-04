@@ -575,11 +575,19 @@
       "upvotes": 13,
       "usedAt": "2025-09-04T01:59:02.659Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n7othy/9_marketing_tools_i_lean_on_almost_every_single/"
+    },
+    {
+      "id": "1n7j0a6",
+      "title": "Danny Sullivan: \"Good SEO is good GEO\" 🙄",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 18,
+      "usedAt": "2025-09-04T13:37:34.276Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n7j0a6/danny_sullivan_good_seo_is_good_geo/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 74,
+    "totalUsed": 75,
     "cleanupCount": 10
   }
 }
