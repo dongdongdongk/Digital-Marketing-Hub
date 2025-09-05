@@ -591,11 +591,19 @@
       "upvotes": 24,
       "usedAt": "2025-09-04T17:30:27.608Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n8365d/hello_people_ive_started_a_new_agency/"
+    },
+    {
+      "id": "1n86cld",
+      "title": "What's the BIGGEST social media marketing myth you wish would just die already?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 24,
+      "usedAt": "2025-09-05T02:01:50.049Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n86cld/whats_the_biggest_social_media_marketing_myth_you/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 76,
+    "totalUsed": 77,
     "cleanupCount": 10
   }
 }
