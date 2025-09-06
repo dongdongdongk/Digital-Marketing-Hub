@@ -631,11 +631,19 @@
       "upvotes": 9,
       "usedAt": "2025-09-06T13:30:26.102Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1n958ic/i_analyzed_1000_influencer_media_kits_most_are/"
+    },
+    {
+      "id": "1n9wgew",
+      "title": "Is it still worth learning to code in 2025 considering how AI is developing?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 10,
+      "usedAt": "2025-09-06T17:27:44.973Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1n9wgew/is_it_still_worth_learning_to_code_in_2025/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 81,
+    "totalUsed": 82,
     "cleanupCount": 10
   }
 }
