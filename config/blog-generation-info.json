@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-06",
-  "timestamp": "2025-09-06T17:27:59.325Z",
-  "executionTimeMs": 14971,
+  "date": "2025-09-07",
+  "timestamp": "2025-09-07T02:12:49.837Z",
+  "executionTimeMs": 9919,
   "blog": {
-    "title": "Learning to Code in 2025: Still Relevant in the AI Era?",
-    "filename": "20250906-1727-DigitalMarketing-is-it-still-worth-learning-to-.md",
-    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250906-1727-DigitalMarketing-is-it-still-worth-learning-to-.md",
-    "contentLength": 3089,
-    "wordCount": 383
+    "title": "E-commerce Insights: 6 Lessons from My First 6 Months",
+    "filename": "20250907-0212-DigitalMarketing-things-i-learned-in-my-first-6.md",
+    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250907-0212-DigitalMarketing-things-i-learned-in-my-first-6.md",
+    "contentLength": 3261,
+    "wordCount": 404
   },
   "source": {
     "subreddit": "DigitalMarketing",
-    "originalTitle": "Is it still worth learning to code in 2025 considering how AI is developing?",
-    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1n9wgew/is_it_still_worth_learning_to_code_in_2025/",
+    "originalTitle": "Things I Learned in My First 6 Months of E-commerce",
+    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1n9vlez/things_i_learned_in_my_first_6_months_of_ecommerce/",
     "engagement": {
-      "upvotes": 10,
-      "comments": 22
+      "upvotes": 6,
+      "comments": 1
     }
   },
   "stats": {
