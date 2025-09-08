@@ -679,11 +679,19 @@
       "upvotes": 26,
       "usedAt": "2025-09-08T13:42:15.052Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nbfjvu/what_keeps_you_from_a_successful_career_in/"
+    },
+    {
+      "id": "1nbknhg",
+      "title": "I scraped 25K comments to find which AI tools are most mentioned on marketing threads",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 27,
+      "usedAt": "2025-09-08T17:32:01.772Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nbknhg/i_scraped_25k_comments_to_find_which_ai_tools_are/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 87,
+    "totalUsed": 88,
     "cleanupCount": 10
   }
 }

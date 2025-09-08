@@ -1,21 +1,21 @@
 {
   "date": "2025-09-08",
-  "timestamp": "2025-09-08T13:42:27.098Z",
-  "executionTimeMs": 13099,
+  "timestamp": "2025-09-08T17:32:19.882Z",
+  "executionTimeMs": 19058,
   "blog": {
-    "title": "Unlocking Digital Marketing: Overcoming Career Barriers",
-    "filename": "20250908-1342-DigitalMarketing-what-keeps-you-from-a-successf.md",
-    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250908-1342-DigitalMarketing-what-keeps-you-from-a-successf.md",
-    "contentLength": 3881,
-    "wordCount": 482
+    "title": "Top AI Tools in Marketing: Insights from 25K Comments",
+    "filename": "20250908-1732-DigitalMarketing-i-scraped-25k-comments-to-find.md",
+    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250908-1732-DigitalMarketing-i-scraped-25k-comments-to-find.md",
+    "contentLength": 3290,
+    "wordCount": 426
   },
   "source": {
     "subreddit": "DigitalMarketing",
-    "originalTitle": "What keeps you from a successful career in digital marketing?",
-    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1nbfjvu/what_keeps_you_from_a_successful_career_in/",
+    "originalTitle": "I scraped 25K comments to find which AI tools are most mentioned on marketing threads",
+    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1nbknhg/i_scraped_25k_comments_to_find_which_ai_tools_are/",
     "engagement": {
-      "upvotes": 26,
-      "comments": 30
+      "upvotes": 27,
+      "comments": 9
     }
   },
   "stats": {
