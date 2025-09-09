@@ -687,11 +687,19 @@
       "upvotes": 27,
       "usedAt": "2025-09-08T17:32:01.772Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nbknhg/i_scraped_25k_comments_to_find_which_ai_tools_are/"
+    },
+    {
+      "id": "1nbngwh",
+      "title": "What’s that one digital marketing secret you’re dying to share but can only say anonymously?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 41,
+      "usedAt": "2025-09-09T02:03:26.228Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nbngwh/whats_that_one_digital_marketing_secret_youre/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 88,
+    "totalUsed": 89,
     "cleanupCount": 10
   }
 }
