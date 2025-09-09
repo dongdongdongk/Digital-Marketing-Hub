@@ -695,11 +695,19 @@
       "upvotes": 41,
       "usedAt": "2025-09-09T02:03:26.228Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nbngwh/whats_that_one_digital_marketing_secret_youre/"
+    },
+    {
+      "id": "1ncddqx",
+      "title": "What is a marketing automation that 10x ed your productivity?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 33,
+      "usedAt": "2025-09-09T13:44:13.897Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ncddqx/what_is_a_marketing_automation_that_10x_ed_your/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 89,
+    "totalUsed": 90,
     "cleanupCount": 10
   }
 }
