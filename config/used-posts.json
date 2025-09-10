@@ -727,11 +727,19 @@
       "upvotes": 21,
       "usedAt": "2025-09-10T13:37:28.726Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nd4bq5/how_do_you_guys_grow_an_instagram_business/"
+    },
+    {
+      "id": "1ndg2gp",
+      "title": "As a student should I learn digital marketing?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 9,
+      "usedAt": "2025-09-10T17:30:27.362Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ndg2gp/as_a_student_should_i_learn_digital_marketing/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 93,
+    "totalUsed": 94,
     "cleanupCount": 10
   }
 }
