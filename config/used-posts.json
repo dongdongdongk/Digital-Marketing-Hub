@@ -743,11 +743,19 @@
       "upvotes": 24,
       "usedAt": "2025-09-11T02:02:43.952Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1ndvgv6/increased_conversions_to_18_generating_2800month/"
+    },
+    {
+      "id": "1ne2ixc",
+      "title": "What is a marketing hack that retuned 10x of what you spent?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 28,
+      "usedAt": "2025-09-11T13:33:57.344Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ne2ixc/what_is_a_marketing_hack_that_retuned_10x_of_what/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 95,
+    "totalUsed": 96,
     "cleanupCount": 10
   }
 }
