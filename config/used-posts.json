@@ -735,11 +735,19 @@
       "upvotes": 9,
       "usedAt": "2025-09-10T17:30:27.362Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1ndg2gp/as_a_student_should_i_learn_digital_marketing/"
+    },
+    {
+      "id": "1ndvgv6",
+      "title": "Increased conversions to 18%, generating $2,800/month from 80 users",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 24,
+      "usedAt": "2025-09-11T02:02:43.952Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ndvgv6/increased_conversions_to_18_generating_2800month/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 94,
+    "totalUsed": 95,
     "cleanupCount": 10
   }
 }
