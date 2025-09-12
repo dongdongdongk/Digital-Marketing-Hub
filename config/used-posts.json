@@ -759,11 +759,19 @@
       "upvotes": 37,
       "usedAt": "2025-09-11T17:30:03.539Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1ne7qqs/what_to_do_about_backend_tasks_taking_too_much/"
+    },
+    {
+      "id": "1nefikg",
+      "title": "Method to run $100 LinkedIn Ads for free – new users can claim a coupon",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 48,
+      "usedAt": "2025-09-12T01:58:09.703Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nefikg/method_to_run_100_linkedin_ads_for_free_new_users/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 97,
+    "totalUsed": 98,
     "cleanupCount": 10
   }
 }
