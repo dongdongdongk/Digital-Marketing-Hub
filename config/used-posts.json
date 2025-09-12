@@ -767,11 +767,19 @@
       "upvotes": 48,
       "usedAt": "2025-09-12T01:58:09.703Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nefikg/method_to_run_100_linkedin_ads_for_free_new_users/"
+    },
+    {
+      "id": "1new0xi",
+      "title": "What AI tools really get the job done with great results?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 18,
+      "usedAt": "2025-09-12T13:36:10.108Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1new0xi/what_ai_tools_really_get_the_job_done_with_great/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 98,
+    "totalUsed": 99,
     "cleanupCount": 10
   }
 }
