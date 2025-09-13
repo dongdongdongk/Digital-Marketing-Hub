@@ -783,11 +783,19 @@
       "upvotes": 28,
       "usedAt": "2025-09-12T17:29:34.871Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nex40e/share_your_real_experience_with_bluehost/"
+    },
+    {
+      "id": "1nf1nou",
+      "title": "The Dead Internet Theory is becoming reality and content creation feels impossible now",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 33,
+      "usedAt": "2025-09-13T01:53:41.683Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nf1nou/the_dead_internet_theory_is_becoming_reality_and/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 100,
+    "totalUsed": 101,
     "cleanupCount": 10
   }
 }
