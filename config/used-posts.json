@@ -815,11 +815,19 @@
       "upvotes": 12,
       "usedAt": "2025-09-14T02:12:18.866Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nftl7k/how_do_you_figure_out_if_an_seo_agency_is/"
+    },
+    {
+      "id": "1ngj59z",
+      "title": "What are the most underrated SEO tools you use?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 41,
+      "usedAt": "2025-09-14T13:29:28.345Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ngj59z/what_are_the_most_underrated_seo_tools_you_use/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 104,
+    "totalUsed": 105,
     "cleanupCount": 10
   }
 }
