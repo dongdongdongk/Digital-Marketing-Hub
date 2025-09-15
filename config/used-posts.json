@@ -839,11 +839,19 @@
       "upvotes": 14,
       "usedAt": "2025-09-15T02:14:19.320Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1ngkp3j/top_5_freelance_marketing_skills_to_make_money/"
+    },
+    {
+      "id": "1nhfhon",
+      "title": "Views are easy, conversions are harder… but how do you actually get BOTH?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 43,
+      "usedAt": "2025-09-15T13:36:21.572Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nhfhon/views_are_easy_conversions_are_harder_but_how_do/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 107,
+    "totalUsed": 108,
     "cleanupCount": 10
   }
 }
