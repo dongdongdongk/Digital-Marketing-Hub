@@ -847,11 +847,19 @@
       "upvotes": 43,
       "usedAt": "2025-09-15T13:36:21.572Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nhfhon/views_are_easy_conversions_are_harder_but_how_do/"
+    },
+    {
+      "id": "1nhcvig",
+      "title": "Is influencer marketing just overpriced advertising?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 22,
+      "usedAt": "2025-09-15T17:31:09.877Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nhcvig/is_influencer_marketing_just_overpriced/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 108,
+    "totalUsed": 109,
     "cleanupCount": 10
   }
 }
