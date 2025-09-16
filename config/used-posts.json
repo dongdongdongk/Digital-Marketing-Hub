@@ -871,11 +871,19 @@
       "upvotes": 34,
       "usedAt": "2025-09-16T13:41:09.924Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nicz1r/whats_in_your_2025_marketing_stack/"
+    },
+    {
+      "id": "1ni8m9d",
+      "title": "Some tips for getting started in marketing",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 29,
+      "usedAt": "2025-09-16T17:30:54.832Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ni8m9d/some_tips_for_getting_started_in_marketing/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 111,
+    "totalUsed": 112,
     "cleanupCount": 10
   }
 }
