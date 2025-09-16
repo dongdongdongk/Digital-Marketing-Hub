@@ -863,11 +863,19 @@
       "upvotes": 21,
       "usedAt": "2025-09-16T01:59:55.359Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nhhk65/what_is_a_marketing_strategy_that_actually_works/"
+    },
+    {
+      "id": "1nicz1r",
+      "title": "What’s in Your 2025 Marketing Stack?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 34,
+      "usedAt": "2025-09-16T13:41:09.924Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nicz1r/whats_in_your_2025_marketing_stack/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 110,
+    "totalUsed": 111,
     "cleanupCount": 10
   }
 }
