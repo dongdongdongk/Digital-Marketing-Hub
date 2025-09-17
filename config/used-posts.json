@@ -887,11 +887,19 @@
       "upvotes": 33,
       "usedAt": "2025-09-17T01:59:07.969Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nif63l/first_26/"
+    },
+    {
+      "id": "1njaxuh",
+      "title": "Why Your Brain Instantly Trusts Some Brands and Ignores Others",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 28,
+      "usedAt": "2025-09-17T13:38:20.418Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1njaxuh/why_your_brain_instantly_trusts_some_brands_and/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 113,
+    "totalUsed": 114,
     "cleanupCount": 10
   }
 }
