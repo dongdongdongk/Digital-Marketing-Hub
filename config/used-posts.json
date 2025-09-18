@@ -903,11 +903,19 @@
       "upvotes": 30,
       "usedAt": "2025-09-17T17:30:56.500Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1niszp1/i_have_been_successfully_involved_in_social_media/"
+    },
+    {
+      "id": "1nj7ek6",
+      "title": "What’s Your Honest Experience with Hostinger?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 23,
+      "usedAt": "2025-09-18T01:59:22.915Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nj7ek6/whats_your_honest_experience_with_hostinger/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 115,
+    "totalUsed": 116,
     "cleanupCount": 10
   }
 }
