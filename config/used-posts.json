@@ -919,11 +919,19 @@
       "upvotes": 19,
       "usedAt": "2025-09-18T13:38:26.349Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1njlsir/how_much_are_you_relying_on_ai_in_your_seo/"
+    },
+    {
+      "id": "1nk8dz4",
+      "title": "More traffic, same conversions: why I’m re-thinking ai automation for ecommerce",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 10,
+      "usedAt": "2025-09-18T17:31:33.745Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nk8dz4/more_traffic_same_conversions_why_im_rethinking/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 117,
+    "totalUsed": 118,
     "cleanupCount": 10
   }
 }
