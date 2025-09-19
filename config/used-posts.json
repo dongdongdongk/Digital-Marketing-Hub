@@ -943,11 +943,19 @@
       "upvotes": 10,
       "usedAt": "2025-09-19T13:38:58.897Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nktoa3/which_tools_are_the_best_for_competitor_analysis/"
+    },
+    {
+      "id": "1nl0ku9",
+      "title": "Hostinger vs Bluehost – which one is actually worth paying for?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 12,
+      "usedAt": "2025-09-19T17:30:42.728Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nl0ku9/hostinger_vs_bluehost_which_one_is_actually_worth/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 120,
+    "totalUsed": 121,
     "cleanupCount": 10
   }
 }
