@@ -927,11 +927,19 @@
       "upvotes": 10,
       "usedAt": "2025-09-18T17:31:33.745Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nk8dz4/more_traffic_same_conversions_why_im_rethinking/"
+    },
+    {
+      "id": "1nk0u8j",
+      "title": "Need recommendations for marketing companies/agencies (photoshoot + social media + SEO)",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 14,
+      "usedAt": "2025-09-19T02:02:56.861Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nk0u8j/need_recommendations_for_marketing/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 118,
+    "totalUsed": 119,
     "cleanupCount": 10
   }
 }
