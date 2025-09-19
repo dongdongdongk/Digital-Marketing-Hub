@@ -935,11 +935,19 @@
       "upvotes": 14,
       "usedAt": "2025-09-19T02:02:56.861Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nk0u8j/need_recommendations_for_marketing/"
+    },
+    {
+      "id": "1nktoa3",
+      "title": "Which tools are the best for competitor analysis",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 10,
+      "usedAt": "2025-09-19T13:38:58.897Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nktoa3/which_tools_are_the_best_for_competitor_analysis/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 119,
+    "totalUsed": 120,
     "cleanupCount": 10
   }
 }
