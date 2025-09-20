@@ -967,11 +967,19 @@
       "upvotes": 18,
       "usedAt": "2025-09-20T13:32:07.236Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nlddk1/starting_an_agency_at_20/"
+    },
+    {
+      "id": "1nlos90",
+      "title": "I spent ₹10,000 on Instagram ads and got 0 clients — here’s what I learned (painful truth)",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 10,
+      "usedAt": "2025-09-20T17:27:38.173Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nlos90/i_spent_10000_on_instagram_ads_and_got_0_clients/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 123,
+    "totalUsed": 124,
     "cleanupCount": 10
   }
 }
