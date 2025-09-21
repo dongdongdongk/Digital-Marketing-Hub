@@ -975,11 +975,19 @@
       "upvotes": 10,
       "usedAt": "2025-09-20T17:27:38.173Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nlos90/i_spent_10000_on_instagram_ads_and_got_0_clients/"
+    },
+    {
+      "id": "1nm4k2c",
+      "title": "Is the future of Digital marketing secure ? Or should I change my career line",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 20,
+      "usedAt": "2025-09-21T02:16:26.893Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nm4k2c/is_the_future_of_digital_marketing_secure_or/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 124,
+    "totalUsed": 125,
     "cleanupCount": 10
   }
 }
