@@ -999,11 +999,19 @@
       "upvotes": 15,
       "usedAt": "2025-09-21T17:29:14.160Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nmne7k/having_8_years_of_experience_but_still_unemployed/"
+    },
+    {
+      "id": "1nmznou",
+      "title": "Bridging the gap between marketing planning and execution, any tips?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 31,
+      "usedAt": "2025-09-22T02:15:44.321Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nmznou/bridging_the_gap_between_marketing_planning_and/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 127,
+    "totalUsed": 128,
     "cleanupCount": 10
   }
 }
