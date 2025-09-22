@@ -1015,11 +1015,19 @@
       "upvotes": 29,
       "usedAt": "2025-09-22T13:41:09.904Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nmzh6n/execution_vs_strategy_which_do_you_struggle_with/"
+    },
+    {
+      "id": "1nni88q",
+      "title": "Which automations have saved you the most time in digital marketing?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 28,
+      "usedAt": "2025-09-22T17:30:01.910Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nni88q/which_automations_have_saved_you_the_most_time_in/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 129,
+    "totalUsed": 130,
     "cleanupCount": 10
   }
 }
