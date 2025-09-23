@@ -1023,11 +1023,19 @@
       "upvotes": 28,
       "usedAt": "2025-09-22T17:30:01.910Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nni88q/which_automations_have_saved_you_the_most_time_in/"
+    },
+    {
+      "id": "1nnngbj",
+      "title": "I messaged 100 marketing professionals on LinkedIn about how AI is affecting their job searches. Here's what they told me.",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 24,
+      "usedAt": "2025-09-23T02:00:06.897Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nnngbj/i_messaged_100_marketing_professionals_on/"
     }
   ],
   "lastCleanup": "2025-08-24T05:56:58Z",
   "stats": {
-    "totalUsed": 130,
+    "totalUsed": 131,
     "cleanupCount": 10
   }
 }
