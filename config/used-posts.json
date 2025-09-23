@@ -975,11 +975,19 @@
       "upvotes": 27,
       "usedAt": "2025-09-23T13:41:12.967Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nnmfpl/is_monitoring_mentions_on_llm_searches_useful/"
+    },
+    {
+      "id": "1nobve3",
+      "title": "What is the simplest SEO tool for small or medium sized businesses?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 30,
+      "usedAt": "2025-09-23T17:29:22.066Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nobve3/what_is_the_simplest_seo_tool_for_small_or_medium/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 132,
+    "totalUsed": 133,
     "cleanupCount": 11
   }
 }
