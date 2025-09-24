@@ -983,11 +983,19 @@
       "upvotes": 30,
       "usedAt": "2025-09-23T17:29:22.066Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nobve3/what_is_the_simplest_seo_tool_for_small_or_medium/"
+    },
+    {
+      "id": "1noppxy",
+      "title": "How do you get clients to read your weekly reports?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 16,
+      "usedAt": "2025-09-24T02:01:34.780Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1noppxy/how_do_you_get_clients_to_read_your_weekly_reports/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 133,
+    "totalUsed": 134,
     "cleanupCount": 11
   }
 }
