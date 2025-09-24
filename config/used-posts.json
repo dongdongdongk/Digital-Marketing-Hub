@@ -991,11 +991,19 @@
       "upvotes": 16,
       "usedAt": "2025-09-24T02:01:34.780Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1noppxy/how_do_you_get_clients_to_read_your_weekly_reports/"
+    },
+    {
+      "id": "1nost37",
+      "title": "Building an in house marketing team under fractional leadership versus hiring agencies",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 16,
+      "usedAt": "2025-09-24T13:40:21.916Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nost37/building_an_in_house_marketing_team_under/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 134,
+    "totalUsed": 135,
     "cleanupCount": 11
   }
 }
