@@ -1015,11 +1015,19 @@
       "upvotes": 559,
       "usedAt": "2025-09-25T02:02:45.252Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1npihxu/throwaway_instagrams_entire_future_depends_on/"
+    },
+    {
+      "id": "1npk7qs",
+      "title": "I want to get into Digital marketing and SEO career",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 28,
+      "usedAt": "2025-09-25T13:41:19.161Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1npk7qs/i_want_to_get_into_digital_marketing_and_seo/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 137,
+    "totalUsed": 138,
     "cleanupCount": 11
   }
 }
