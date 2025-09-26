@@ -1039,11 +1039,19 @@
       "upvotes": 15,
       "usedAt": "2025-09-26T02:02:04.869Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nq3wjb/seo_news_global_august_2025_spam_update/"
+    },
+    {
+      "id": "1nqmgo6",
+      "title": "Why does everyone think it’s easy?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 43,
+      "usedAt": "2025-09-26T13:38:41.236Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nqmgo6/why_does_everyone_think_its_easy/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 140,
+    "totalUsed": 141,
     "cleanupCount": 11
   }
 }
