@@ -1047,11 +1047,19 @@
       "upvotes": 43,
       "usedAt": "2025-09-26T13:38:41.236Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nqmgo6/why_does_everyone_think_its_easy/"
+    },
+    {
+      "id": "1nqwggu",
+      "title": "Need urgent SEO advice – My job is at risk",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 24,
+      "usedAt": "2025-09-26T17:30:53.721Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nqwggu/need_urgent_seo_advice_my_job_is_at_risk/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 141,
+    "totalUsed": 142,
     "cleanupCount": 11
   }
 }
