@@ -1031,11 +1031,19 @@
       "upvotes": 27,
       "usedAt": "2025-09-25T17:31:44.978Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nq0i5t/digital_marketers_what_ai_tools_in_2025_are/"
+    },
+    {
+      "id": "1nq3wjb",
+      "title": "SEO News: Global August 2025 spam update officially complete, Penske Media sues Google over AI Overviews stealing content, AI Mode coming to Chrome address bar (omnibox)",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 15,
+      "usedAt": "2025-09-26T02:02:04.869Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nq3wjb/seo_news_global_august_2025_spam_update/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 139,
+    "totalUsed": 140,
     "cleanupCount": 11
   }
 }
