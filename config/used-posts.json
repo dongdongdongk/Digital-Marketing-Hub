@@ -1095,11 +1095,19 @@
       "upvotes": 16,
       "usedAt": "2025-09-28T13:31:23.816Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nsgmkh/is_it_possible_to_reduce_the_cost_while_still/"
+    },
+    {
+      "id": "1nsbizj",
+      "title": "I Built a Google Maps scraper in 2 days with AI",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 13,
+      "usedAt": "2025-09-28T17:28:19.874Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nsbizj/i_built_a_google_maps_scraper_in_2_days_with_ai/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 147,
+    "totalUsed": 148,
     "cleanupCount": 11
   }
 }
