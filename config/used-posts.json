@@ -1079,11 +1079,19 @@
       "upvotes": 17,
       "usedAt": "2025-09-27T17:28:53.139Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nrnzk8/should_i_focus_on_seo_or_paid_ads_for_a_new/"
+    },
+    {
+      "id": "1nrpaty",
+      "title": "Is running ads on Reddit worth it?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 11,
+      "usedAt": "2025-09-28T02:16:53.733Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nrpaty/is_running_ads_on_reddit_worth_it/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 145,
+    "totalUsed": 146,
     "cleanupCount": 11
   }
 }
