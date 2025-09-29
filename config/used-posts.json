@@ -1119,11 +1119,19 @@
       "upvotes": 22,
       "usedAt": "2025-09-29T13:41:53.944Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1ntcxdb/what_do_most_digital_marketers_get_wrong_when/"
+    },
+    {
+      "id": "1ntf0um",
+      "title": "How are you personalizing cold outreach at scale without burning out?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 19,
+      "usedAt": "2025-09-29T17:31:05.983Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ntf0um/how_are_you_personalizing_cold_outreach_at_scale/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 150,
+    "totalUsed": 151,
     "cleanupCount": 11
   }
 }
