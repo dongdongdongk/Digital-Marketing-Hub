@@ -1,21 +1,21 @@
 {
-  "date": "2025-09-28",
-  "timestamp": "2025-09-28T17:28:29.869Z",
-  "executionTimeMs": 10682,
+  "date": "2025-09-29",
+  "timestamp": "2025-09-29T02:06:23.651Z",
+  "executionTimeMs": 16930,
   "blog": {
-    "title": "AI-Powered Google Maps Scraper Built in Just 2 Days!",
-    "filename": "20250928-1728-DigitalMarketing-i-built-a-google-maps-scraper-.md",
-    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250928-1728-DigitalMarketing-i-built-a-google-maps-scraper-.md",
-    "contentLength": 3157,
-    "wordCount": 385
+    "title": "Do Ad Platforms Secretly Favor Big Budget Advertisers?",
+    "filename": "20250929-0206-DigitalMarketing-do-ad-platforms-secretly-favor.md",
+    "path": "/home/runner/work/Digital-Marketing-Hub/Digital-Marketing-Hub/content/posts/20250929-0206-DigitalMarketing-do-ad-platforms-secretly-favor.md",
+    "contentLength": 3545,
+    "wordCount": 468
   },
   "source": {
     "subreddit": "DigitalMarketing",
-    "originalTitle": "I Built a Google Maps scraper in 2 days with AI",
-    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1nsbizj/i_built_a_google_maps_scraper_in_2_days_with_ai/",
+    "originalTitle": "Do ad platforms secretly favor big spenders?",
+    "originalUrl": "https://reddit.com/r/DigitalMarketing/comments/1nsobic/do_ad_platforms_secretly_favor_big_spenders/",
     "engagement": {
-      "upvotes": 13,
-      "comments": 6
+      "upvotes": 9,
+      "comments": 13
     }
   },
   "stats": {

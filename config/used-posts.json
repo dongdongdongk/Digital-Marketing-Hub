@@ -1103,11 +1103,19 @@
       "upvotes": 13,
       "usedAt": "2025-09-28T17:28:19.874Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nsbizj/i_built_a_google_maps_scraper_in_2_days_with_ai/"
+    },
+    {
+      "id": "1nsobic",
+      "title": "Do ad platforms secretly favor big spenders?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 9,
+      "usedAt": "2025-09-29T02:06:07.397Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nsobic/do_ad_platforms_secretly_favor_big_spenders/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 148,
+    "totalUsed": 149,
     "cleanupCount": 11
   }
 }
