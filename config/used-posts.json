@@ -1127,11 +1127,19 @@
       "upvotes": 19,
       "usedAt": "2025-09-29T17:31:05.983Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1ntf0um/how_are_you_personalizing_cold_outreach_at_scale/"
+    },
+    {
+      "id": "1ntd4w3",
+      "title": "How do you use AI as a marketer?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 20,
+      "usedAt": "2025-09-30T02:00:11.642Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1ntd4w3/how_do_you_use_ai_as_a_marketer/"
     }
   ],
   "lastCleanup": "2025-09-23T13:41:12.050Z",
   "stats": {
-    "totalUsed": 151,
+    "totalUsed": 152,
     "cleanupCount": 11
   }
 }
