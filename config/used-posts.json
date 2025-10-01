@@ -727,11 +727,19 @@
       "upvotes": 37,
       "usedAt": "2025-09-30T17:31:09.781Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nu48c1/instant_checkout_with_chat_gpt/"
+    },
+    {
+      "id": "1nugapk",
+      "title": "Recruiters what do you actually look for when hiring marketing candidates?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 66,
+      "usedAt": "2025-10-01T02:18:10.640Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nugapk/recruiters_what_do_you_actually_look_for_when/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 154,
+    "totalUsed": 155,
     "cleanupCount": 12
   }
 }
