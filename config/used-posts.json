@@ -735,11 +735,19 @@
       "upvotes": 66,
       "usedAt": "2025-10-01T02:18:10.640Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nugapk/recruiters_what_do_you_actually_look_for_when/"
+    },
+    {
+      "id": "1nv3zfy",
+      "title": "What AI tools in 2025 actually make your job 10x easier as a marketer?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 33,
+      "usedAt": "2025-10-01T13:42:29.196Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nv3zfy/what_ai_tools_in_2025_actually_make_your_job_10x/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 155,
+    "totalUsed": 156,
     "cleanupCount": 12
   }
 }
