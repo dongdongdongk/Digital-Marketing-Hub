@@ -751,11 +751,19 @@
       "upvotes": 22,
       "usedAt": "2025-10-01T17:32:11.187Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nv1g25/whats_one_digital_marketing_tactic_you_feel_is/"
+    },
+    {
+      "id": "1nv11bi",
+      "title": "Which is the most exciting and high paying position in digital marketing?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 21,
+      "usedAt": "2025-10-02T02:00:03.016Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nv11bi/which_is_the_most_exciting_and_high_paying/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 157,
+    "totalUsed": 158,
     "cleanupCount": 12
   }
 }
