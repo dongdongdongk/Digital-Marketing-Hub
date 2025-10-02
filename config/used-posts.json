@@ -767,11 +767,19 @@
       "upvotes": 12,
       "usedAt": "2025-10-02T13:37:18.606Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nv9qlb/been_reading_about_incrementality_testing_vs_ab/"
+    },
+    {
+      "id": "1nw08jz",
+      "title": "Which Marketing Channel makes more money",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 13,
+      "usedAt": "2025-10-02T17:29:46.167Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nw08jz/which_marketing_channel_makes_more_money/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 159,
+    "totalUsed": 160,
     "cleanupCount": 12
   }
 }
