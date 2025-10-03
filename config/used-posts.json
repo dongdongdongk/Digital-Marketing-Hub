@@ -791,11 +791,19 @@
       "upvotes": 12,
       "usedAt": "2025-10-03T13:36:06.761Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nwt316/content_marketing_in_2025_authenticity_vs_ai/"
+    },
+    {
+      "id": "1nwtyad",
+      "title": "Which AI tools are you using for ad creatives? Midjourney, Omneky others?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 15,
+      "usedAt": "2025-10-03T17:30:00.832Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nwtyad/which_ai_tools_are_you_using_for_ad_creatives/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 162,
+    "totalUsed": 163,
     "cleanupCount": 12
   }
 }
