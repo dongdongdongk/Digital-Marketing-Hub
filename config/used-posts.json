@@ -775,11 +775,19 @@
       "upvotes": 13,
       "usedAt": "2025-10-02T17:29:46.167Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nw08jz/which_marketing_channel_makes_more_money/"
+    },
+    {
+      "id": "1nw3mor",
+      "title": "New to marketing — how do I actually get started?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 11,
+      "usedAt": "2025-10-03T01:59:45.604Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nw3mor/new_to_marketing_how_do_i_actually_get_started/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 160,
+    "totalUsed": 161,
     "cleanupCount": 12
   }
 }
