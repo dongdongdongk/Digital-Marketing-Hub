@@ -783,11 +783,19 @@
       "upvotes": 11,
       "usedAt": "2025-10-03T01:59:45.604Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nw3mor/new_to_marketing_how_do_i_actually_get_started/"
+    },
+    {
+      "id": "1nwt316",
+      "title": "Content Marketing in 2025: Authenticity vs AI?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 12,
+      "usedAt": "2025-10-03T13:36:06.761Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nwt316/content_marketing_in_2025_authenticity_vs_ai/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 161,
+    "totalUsed": 162,
     "cleanupCount": 12
   }
 }
