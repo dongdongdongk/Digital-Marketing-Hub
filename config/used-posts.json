@@ -799,11 +799,19 @@
       "upvotes": 15,
       "usedAt": "2025-10-03T17:30:00.832Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nwtyad/which_ai_tools_are_you_using_for_ad_creatives/"
+    },
+    {
+      "id": "1nwpvdr",
+      "title": "Does email marketing still rule as a king for customer acquisition?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 11,
+      "usedAt": "2025-10-04T01:55:21.854Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nwpvdr/does_email_marketing_still_rule_as_a_king_for/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 163,
+    "totalUsed": 164,
     "cleanupCount": 12
   }
 }
