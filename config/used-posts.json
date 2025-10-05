@@ -823,11 +823,19 @@
       "upvotes": 17,
       "usedAt": "2025-10-04T17:28:10.183Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nxva53/okay_so_whats_the_best_email_and_sms_marketing/"
+    },
+    {
+      "id": "1nxreun",
+      "title": "How do you actually build a digital community for a brand?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 6,
+      "usedAt": "2025-10-05T02:16:05.625Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nxreun/how_do_you_actually_build_a_digital_community_for/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 166,
+    "totalUsed": 167,
     "cleanupCount": 12
   }
 }
