@@ -839,11 +839,19 @@
       "upvotes": 17,
       "usedAt": "2025-10-05T13:31:20.734Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1ny8o9b/im_a_chinese_entrepreneur_learning_digital/"
+    },
+    {
+      "id": "1nykd2q",
+      "title": "Best tools for market research?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 19,
+      "usedAt": "2025-10-06T02:03:29.454Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nykd2q/best_tools_for_market_research/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 168,
+    "totalUsed": 169,
     "cleanupCount": 12
   }
 }
