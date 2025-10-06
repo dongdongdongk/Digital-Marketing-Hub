@@ -855,11 +855,19 @@
       "upvotes": 8,
       "usedAt": "2025-10-06T13:40:57.582Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nzens0/im_going_crazy_trying_to_market_my_shopify_app/"
+    },
+    {
+      "id": "1nziqv6",
+      "title": "What's the problem that you absolutely hate in Digital marketing?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 8,
+      "usedAt": "2025-10-06T17:31:18.839Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nziqv6/whats_the_problem_that_you_absolutely_hate_in/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 170,
+    "totalUsed": 171,
     "cleanupCount": 12
   }
 }
