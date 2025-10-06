@@ -847,11 +847,19 @@
       "upvotes": 19,
       "usedAt": "2025-10-06T02:03:29.454Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nykd2q/best_tools_for_market_research/"
+    },
+    {
+      "id": "1nzens0",
+      "title": "I’m going crazy trying to market my Shopify app",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 8,
+      "usedAt": "2025-10-06T13:40:57.582Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nzens0/im_going_crazy_trying_to_market_my_shopify_app/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 169,
+    "totalUsed": 170,
     "cleanupCount": 12
   }
 }
