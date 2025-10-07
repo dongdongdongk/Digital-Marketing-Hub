@@ -711,11 +711,19 @@
       "upvotes": 34,
       "usedAt": "2025-10-07T13:41:38.658Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1o08gvi/whats_your_favorite_ai_hack_that_every_marketer/"
+    },
+    {
+      "id": "1o05yf8",
+      "title": "Anyone here tried a digital marketing course with internship included?",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 15,
+      "usedAt": "2025-10-07T17:32:04.735Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1o05yf8/anyone_here_tried_a_digital_marketing_course_with/"
     }
   ],
   "lastCleanup": "2025-10-07T13:41:37.884Z",
   "stats": {
-    "totalUsed": 173,
+    "totalUsed": 174,
     "cleanupCount": 13
   }
 }
