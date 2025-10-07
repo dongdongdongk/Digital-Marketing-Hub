@@ -863,11 +863,19 @@
       "upvotes": 8,
       "usedAt": "2025-10-06T17:31:18.839Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1nziqv6/whats_the_problem_that_you_absolutely_hate_in/"
+    },
+    {
+      "id": "1nzsq12",
+      "title": "AI content isn’t killing marketing. Bad marketers are.",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 8,
+      "usedAt": "2025-10-07T02:00:50.100Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1nzsq12/ai_content_isnt_killing_marketing_bad_marketers/"
     }
   ],
   "lastCleanup": "2025-09-30T13:41:24.951Z",
   "stats": {
-    "totalUsed": 171,
+    "totalUsed": 172,
     "cleanupCount": 12
   }
 }
