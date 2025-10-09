@@ -743,11 +743,19 @@
       "upvotes": 22,
       "usedAt": "2025-10-08T17:32:06.315Z",
       "url": "https://reddit.com/r/DigitalMarketing/comments/1o16oob/we_are_collecting_real_opinions_about_bluehost/"
+    },
+    {
+      "id": "1o19kkr",
+      "title": "I’m planning to quit my job and start a digital marketing agency.",
+      "subreddit": "DigitalMarketing",
+      "upvotes": 25,
+      "usedAt": "2025-10-09T02:01:53.763Z",
+      "url": "https://reddit.com/r/DigitalMarketing/comments/1o19kkr/im_planning_to_quit_my_job_and_start_a_digital/"
     }
   ],
   "lastCleanup": "2025-10-07T13:41:37.884Z",
   "stats": {
-    "totalUsed": 177,
+    "totalUsed": 178,
     "cleanupCount": 13
   }
 }
